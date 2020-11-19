@@ -1,0 +1,44 @@
+body {
+    background-color: grey;
+}
+.Tétel {
+    text-align: center;
+    padding: 10%;
+}
+.Tervezo {
+    text-align: center;
+    font-family: 'Times New Roman', Times;
+    font-size: 25px;
+    padding: 25%;
+
+}
+.cim {
+    text-align: center;
+    font-size: 45px;
+    margin: 15px;
+
+}
+.tetel {
+    padding: 5%;
+    margin: 5%;
+    background-color: whitesmoke;
+}
+.karakter {
+    font-size: 20px;
+    text-align: justify;
+}
+.kep{
+    max-width: 30%;
+    height: auto;
+    float: right;
+    padding: 2px;
+    border: 2px solid grey;
+    margin: 5px;
+}
+.hr {
+    clear: both;
+}
+.forras {
+    text-align: center;
+    font-size: 20px;
+}
