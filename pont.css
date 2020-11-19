@@ -1,0 +1,53 @@
+body {
+    background-color: grey;
+}
+div {
+	display: inline-block;
+}
+#doboz {
+    margin-left: auto;
+    margin-top: 10%;
+	padding: 10px 20px 10px 20px;
+	float: left
+    
+
+}
+
+input {
+	margin-bottom: 20px;
+	display: block;
+}
+
+
+#button {
+	background: white;
+	border: none;
+	border-radius: 5px;
+	padding: 10px;
+	color: white;
+	font-size: 16px;
+	margin-top: 15px;
+}
+
+
+
+#button:hover {
+	background: white;
+	border: 1px solid grey;
+	color: black;
+	cursor: pointer;
+}
+#after_submit {
+	visibility: hidden;
+	background: black;
+	padding: 10px 20px 10px 20px;
+	width: 40px;
+	border-radius: 20px;
+	float: right;
+	margin-left: 20px;
+	font-size: 30px;
+
+
+}
+
+
